@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ずっと (Remix)",
+  "base_artist": "SPICY CHOCOLATE",
+  "createdAt": "2026-03-10T02:32:07.980949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ずっと - Sunaga t experience REMIX",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/01_ずっと_-_Sunaga_t_experience_REMIX_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ずっと(Sunaga t experienca REMIX)",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/02_ずっと(Sunaga_t_experienca_REMIX)_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ずっと",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/03_ずっと_asmi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ずっと 忘れない。 (TJO & YUSUKE from BLU-SWING Remix)",
+      "artist": "TOKYO GIRLS' STYLE",
+      "has_synced": false,
+      "path": "select/04_ずっと_忘れない。_(TJO_&_YUSUKE_from_BLU-SWING_Remix)_TOKYO_GIRLS'_STYLE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ずっと",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/05_ずっと_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ずっと",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/06_ずっと_the_peggies.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ずっと。",
+      "artist": "青山テルマ",
+      "has_synced": false,
+      "path": "select/07_ずっと。_青山テルマ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "きっと ずっと",
+      "artist": "sweet ARMS(野水伊織、富樫美鈴、佐土原かおり、味里)",
+      "has_synced": false,
+      "path": "select/08_きっと_ずっと_sweet_ARMS(野水伊織、富樫美鈴、佐土原かおり、味里).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "きっと ずっと",
+      "artist": "sweet ARMS",
+      "has_synced": false,
+      "path": "select/09_きっと_ずっと_sweet_ARMS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ずっと、ふたりで",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/10_ずっと、ふたりで_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ずっと Be with you",
+      "artist": "RAMMに這いよるニャル子さん",
+      "has_synced": true,
+      "path": "select/11_ずっと_Be_with_you_RAMMに這いよるニャル子さん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "きっと ずっと (Full Size)",
+      "artist": "sweet ARMS",
+      "has_synced": false,
+      "path": "select/12_きっと_ずっと_(Full_Size)_sweet_ARMS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "きっと ずっと (フルサイズ)",
+      "artist": "sweet ARMS",
+      "has_synced": false,
+      "path": "select/13_きっと_ずっと_(フルサイズ)_sweet_ARMS.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ずっと - Zutto (feat. HAN-KUN & TEE)",
+      "artist": "SPICY CHOCOLATE",
+      "has_synced": true,
+      "path": "select/14_ずっと_-_Zutto_(feat._HAN-KUN_&_TEE)_SPICY_CHOCOLATE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ずっと...",
+      "artist": "Mai Kuraki",
+      "has_synced": false,
+      "path": "select/15_ずっと..._Mai_Kuraki.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ずっと そばで…",
+      "artist": "伏見弓弦(CV.橋本晃太朗)",
+      "has_synced": false,
+      "path": "select/16_ずっと_そばで..._伏見弓弦(CV.橋本晃太朗).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "きっと ずっと",
+      "artist": "sweet ARMS",
+      "has_synced": true,
+      "path": "select/17_きっと_ずっと_sweet_ARMS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずっと feat.HAN-KUN & TEE",
+      "artist": "SPICY CHOCOLATE",
+      "has_synced": false,
+      "path": "select/pl_01_ずっと_feat.HAN-KUN_&_TEE_SPICY_CHOCOLATE.txt"
+    }
+  ]
+}
